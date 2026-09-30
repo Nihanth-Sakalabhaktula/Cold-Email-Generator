@@ -1,0 +1,17 @@
+# Environment variables - API key ni GitHub ki upload cheyyakudadhu
+.env
+
+# Virtual environments
+venv/
+venv312/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ChromaDB local database
+chroma_db/
+
+# IDE files
+.vscode/
+.idea/

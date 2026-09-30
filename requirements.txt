@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-groq
+chromadb
+python-dotenv
+pandas
+PySide6==6.8.3
